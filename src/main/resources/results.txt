@@ -1,0 +1,11 @@
+Ada Lovelace,20,80,100
+Albert Einstein,55,45,70
+Nikola Tesla,56,46,75
+Alan Turing,10,25,25
+Linus Torvalds,54,100,100
+Robert C. Martin,80,80,80
+Marie Curie,5,80,80
+Gottfried Wilhelm Leibniz,2,5,6
+Isaac Newton,7,8,51
+Barbara Liskov,34,52,83
+James Clerk Maxwell,100,100,100
